@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">HotelBooking</string>
+    <string name="email_id">Enter EmailID</string>
+    <string name="password_">Enter Password</string>
+    <string name="submit_">Submit</string>
+    <string name="ifregister_">If not registered ?</string>
+    <string name="register_">Register</string>
+    <string name="username_">Enter Name</string>
+    <string name="mobileno_">Enter Mobile No.</string>
+    <string name="digitsreq">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="digitsreq_email">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890_@.</string>
+    <string name="menu_logout">Logout</string>
+    <string name="LOGINTYPE">Select login type</string>
+    <string name="Viewbooking">"View Booking "</string>
+    <string name="adddetails">Add details</string>
+    <string name="type_room">Room Type</string>
+    <string name="entr_hotel_name">Enter Hotel Name</string>
+    <string name="room">Room</string>
+    <string name="room_capacity">No. of Guest</string>
+    <string name="date">CheckIn</string>
+    <string name="price">Price \n per. night per room</string>
+    <string name="select_">Click here</string>
+    <string name="dateout">Checkout</string>
+    <string-array name="array_logintype">
+        <item>Visitors</item>
+        <item>Admin</item>
+    </string-array>
+    <string-array name="array_roomtype">
+        <item>Standard</item>
+        <item>Deluxe</item>
+        <item>Luxury</item>
+    </string-array>
+</resources>

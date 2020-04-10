@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <!-- <item
+             android:id="@+id/nav_home"
+             android:icon="@drawable/ic_menu_camera"
+             android:title="@string/menu_Text_scanner" />-->
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/menu_logout"/>
+        <!-- <item
+             android:id="@+id/nav_index"
+             android:icon="@drawable/icons8_index_64"
+             android:title="सूची"/>-->
+        <!--<item
+            android:id="@+id/nav_hindi"
+            android:title="@string/menu_Hindi"
+            android:icon="@drawable/ic_launcher_background"/>
+
+        <item
+            android:id="@+id/nav_Marathi"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/menu_Marathi" />-->
+        <!--<item
+            android:id="@+id/nav_Children"
+            android:icon="@drawable/icons8_children_song"
+            android:title="@string/menu_Children" />-->
+        <!-- <item
+             android:id="@+id/nav_events"
+             android:icon="@drawable/icons8_events_64"
+             android:title="@string/events_hin"/>-->
+
+
+
+
+    </group>
+<!--    <group
+        android:id="@+id/group_1_id"
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_update"
+            android:visible="true"
+            android:title="@string/auto_update"
+            android:icon="@drawable/icons8_autoupdates_32"
+            app:actionViewClass="android.widget.TextView"
+            />
+        <item android:id="@+id/nav_setting"
+            android:visible="true"
+            android:title="@string/setting_"
+            android:icon="@drawable/icons8_setting_32"/>
+    </group>
+    <group
+        android:id="@+id/group_2_id"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/exitsymbol"
+            android:title="@string/menu_exit"/>
+    </group>-->
+
+
+
+</menu>
